@@ -11,6 +11,9 @@ A Python-based tool to monitor website availability and performance. It checks w
 ## 📥 Installation  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/website-monitoring.git
+   git clone https://github.com/boltm2h/website-monitoring.git
    cd website-monitoring
    python3 main.py
+
+   ##Author/contact
+   https://t.me/m2hgamerz
